@@ -1,0 +1,5 @@
+sale_id,product_id,customer_id,store_id,date,quantity,unit_price,customer_name,gender,age
+1,101,1001,1,2025-06-01,2,50,Asrar,F,29
+2,102,1002,2,2025-06-02,1,150,Lina,F,35
+3,103,1003,1,2025-06-03,5,20,Faisal,M,40
+4,101,1004,3,2025-06-04,3,50,Nada,F,23
