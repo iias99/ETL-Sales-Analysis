@@ -10,7 +10,23 @@ The ETL process includes:
 - **Cleaning**: Handling missing values, correcting invalid entries, and standardizing data.
 - **Merging**: Combining datasets to create a unified view of sales transactions with customer details.
 - **Analysis**: Generating insights like total sales, sales by gender, product, store, and date.
-- **Visualization**: Creating charts using `matplotlib`.
+- **Visualization**: Creating charts using `matplotlib`:
+### Sales by Gender
+![Sales by Gender](ETL-Py project/Visualization/Sales_by_gender.png)
+*This bar chart shows the total sales amounts split by gender.*
+
+### Sales by Product
+![Sales by Product](ETL-Py project/Visualization/Sales_by_product.png)
+*This bar chart displays total sales per product.*
+
+### Sales by Store
+![Sales by Store](ETL-Py project/Visualization/Sales_by_stor.png)
+*This bar chart shows sales distribution across stores.*
+
+### Sales by Date
+![Sales by Date](ETL-Py project/Visualization/Sales_by_date.png)
+*This line chart illustrates sales trends over time.*
+
 
 ## Project Structure
 
