@@ -38,7 +38,9 @@ ETL-Py project/
 1. Clone the repository.
 2. Install dependencies:
    pip install -r requirements.txt
-3. Run the script:
+   [Download requirements.txt](https://github.com/iias99/ETL-Sales-Analysis/blob/main/requirements.txt)
+
+4. Run the script:
    python scripts/etl_project.py
  ## Author
 
